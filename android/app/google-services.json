@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027241967371",
+    "project_id": "meet-f14c0",
+    "storage_bucket": "meet-f14c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027241967371:android:9028a4ee764f519210ec0e",
+        "android_client_info": {
+          "package_name": "com.mood.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027241967371-8j4oc99hddkb985mgb7q0fg4pno0vqm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO2sFzu-Ci-YH6WSKbAS18C1sDSlcT2mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027241967371-8j4oc99hddkb985mgb7q0fg4pno0vqm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
